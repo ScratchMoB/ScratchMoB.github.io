@@ -1,0 +1,79 @@
+img {
+  border-radius: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+
+h1 {
+  text-align: center;
+  font-family:verdana;
+  font-size:12px ;
+  border-radius: 12px;
+}
+h4 {
+  text-align: center;
+  font-family:Verdana;
+  font-size:10px;
+  border-radius: 12px;
+  border-color:  #00aaff;
+  list-style-type: square;
+  margin: 0;
+  padding: 0;
+  border-style: solid;
+  border-bottom:1px solid #ececec;
+    border-spacing:30px;
+    display:block;
+    word-wrap: break-word;
+    overflow:hidden;
+
+}
+.card {
+  box-shadow: 0 4px 8px 0 rgba(102, 204, 255);
+  max-width: 600px;
+  margin: auto;
+  text-align: center;
+}
+
+
+button {
+  border: double;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  color: white;
+  background-color:  #00aaff;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 18px;
+  border-radius: 12px;
+}
+input[type=text]{
+  border-radius: 12px;
+  width:34%;
+  height:42px;
+  vertical-align: top;
+  float: right;
+  
+}
+.nav {
+  background-color: rgb(0, 170, 255);
+  overflow: hidden;
+  border-radius: 12px;
+  display: inline-block;
+  
+}
+.nav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.nav a:hover {
+  background-color: #ddd;
+  color: black;
+}
