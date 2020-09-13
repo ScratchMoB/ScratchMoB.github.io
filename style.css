@@ -30,8 +30,7 @@ h4 {
 
 }
 .card {
- width: auto;
- height: auto;
+
  background: linear-gradient(to right, #F44336, #E91E63);
  margin: none;
  border-radius: 10px;
