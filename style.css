@@ -34,6 +34,7 @@ h4 {
   max-width: 600px;
   margin: auto;
   text-align: center;
+  border-radius: 10px;
 
 background: linear-gradient(to right, #F44336, #E91E63);
 
