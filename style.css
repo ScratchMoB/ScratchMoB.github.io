@@ -27,8 +27,9 @@ h4 {
     display:block;
     word-wrap: break-word;
     overflow:hidden;
+    background-color: white;
 
-}
+
 .card {
 
  background: linear-gradient(to right, #F44336, #E91E63);
